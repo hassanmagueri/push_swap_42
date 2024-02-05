@@ -1,4 +1,4 @@
-Push Swap Project
+#Push Swap Project
 Overview
 The Push Swap project is a program written in C that sorts a stack of integers using a predefined set of operations. This project is part of the curriculum for [INSERT NAME OF YOUR COURSE OR PROGRAM HERE].
 
